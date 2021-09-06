@@ -1,5 +1,5 @@
 
-## Hey :wave:, [![Github Badge](https://img.shields.io/badge/-EDataScriptware-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EDataScriptware/)](https://www.github.com/EDataScriptware/) 
+## [![Github Badge](https://img.shields.io/badge/-EDataScriptware-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EDataScriptware/)](https://www.github.com/EDataScriptware/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EDataScriptware alt=EDataScriptware /> </p>
 
